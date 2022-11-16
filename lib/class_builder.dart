@@ -1,9 +1,9 @@
 import 'package:dashboard_temp/profile.dart';
-import 'package:flutter_smart_home_ui/home.dart';
-import 'package:flutter_smart_home_ui/schedules.dart';
-import 'package:flutter_smart_home_ui/settings.dart';
-import 'package:flutter_smart_home_ui/notifications.dart';
-import 'package:flutter_smart_home_ui/stats.dart';
+import 'package:dashboard_temp/home.dart';
+import 'package:dashboard_temp/schedules.dart';
+import 'package:dashboard_temp/settings.dart';
+import 'package:dashboard_temp/notifications.dart';
+import 'package:dashboard_temp/stats.dart';
 
 typedef T Constructor<T>();
 
