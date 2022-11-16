@@ -36,7 +36,7 @@ class MainWidget extends StatefulWidget {
 }
 
 class _MainWidgetState extends State<MainWidget> with TickerProviderStateMixin {
-  KFDrawerController _drawerController;
+  late KFDrawerController _drawerController;
 
   @override
   void initState() {
