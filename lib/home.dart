@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_smart_home_ui/detailpage.dart';
+import 'package:dashboard_temp/detailpage.dart';
 import 'package:kf_drawer/kf_drawer.dart';
 
 class Home extends KFDrawerContent {
   Home({
-    Key key,
+    Key? key,
   });
 
   @override
