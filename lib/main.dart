@@ -22,13 +22,13 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      home: MainWidget(),
+      home: MainWidget(title: '',),
     );
   }
 }
 
 class MainWidget extends StatefulWidget {
-  MainWidget({Key key, this.title}) : super(key: key);
+  MainWidget({Key? key, required this.title}) : super(key: key);
   final String title;
 
   @override
