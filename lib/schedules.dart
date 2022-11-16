@@ -3,7 +3,7 @@ import 'package:kf_drawer/kf_drawer.dart';
 
 class Schedules extends KFDrawerContent {
   Schedules({
-    Key key,
+    Key? key,
   });
 
   @override

@@ -3,7 +3,7 @@ import 'package:kf_drawer/kf_drawer.dart';
 
 class Stats extends KFDrawerContent {
   Stats({
-    Key key,
+    Key? key,
   });
 
   @override

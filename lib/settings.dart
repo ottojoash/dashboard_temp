@@ -3,7 +3,7 @@ import 'package:kf_drawer/kf_drawer.dart';
 
 class Settings extends KFDrawerContent {
   Settings({
-    Key key,
+    Key? key,
   });
 
   @override
