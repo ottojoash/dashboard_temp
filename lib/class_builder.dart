@@ -1,4 +1,4 @@
-import 'package:flutter_smart_home_ui/profile.dart';
+import 'package:dashboard_temp/profile.dart';
 import 'package:flutter_smart_home_ui/home.dart';
 import 'package:flutter_smart_home_ui/schedules.dart';
 import 'package:flutter_smart_home_ui/settings.dart';
